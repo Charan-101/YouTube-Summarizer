@@ -8,7 +8,7 @@ The project consists of the following components:
 
 1. **app.py**: This is the main Flask application file. It handles the web server and routes requests. It serves the HTML template and handles the POST request to summarize the YouTube video.
 
-2. **ytsummariser.py**: This file contains the Python code for summarizing the YouTube video. It includes logic for downloading the video audio, performing automatic speech recognition (ASR), and summarization.
+2. **youtube_summariser_project.py**: This file contains the Python code for summarizing the YouTube video. It includes logic for downloading the video audio, performing automatic speech recognition (ASR), and summarization.
 
 3. **templates/index.html**: This HTML template resides in the `templates` directory. It contains the frontend code for the web application, including a form for users to input the YouTube video link and display the summarized text.
 
